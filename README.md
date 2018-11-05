@@ -1,3 +1,5 @@
+# This repo is no longer used. Please see  https://github.com/microsoft/devops-project-samples for samples of Azure DevOps Project
+
 | Language | Framework | Platform | Author |
 | -------- | -------- |--------|--------|
 | Java | JSF | Azure Web App, Virtual Machine| |
